@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Node.js and React
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Web Development
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivamkumar177/) [Twitter](https://twitter.com/shivamkumar177) [Personal Website](https://shivam-kumar.netlify.app/)
